@@ -1,5 +1,5 @@
 # clash-config
-### urltset
+### urltest
 ### apple
 ### globalmedia
 ### speedtest
