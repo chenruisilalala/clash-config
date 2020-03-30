@@ -1,7 +1,3 @@
-DOMAIN,admusicpic.music.126.net,AppleUpdate
-DOMAIN,iadmat.nosdn.127.net,AppleUpdate
-DOMAIN,iadmusicmat.music.126.net,AppleUpdate
-DOMAIN,iadmusicmatvideo.music.126.net,AppleUpdate
 DOMAIN-SUFFIX,ocsp.int-x3.letsencrypt.org,AppleUpdate
 DOMAIN-SUFFIX,ocsp.apple.com,AppleUpdate
 DOMAIN-SUFFIX,world-gen.g.aaplimg.com,AppleUpdate
