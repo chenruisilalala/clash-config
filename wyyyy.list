@@ -1,4 +1,4 @@
-  # Netease Music
+# > Netease Music
 DOMAIN,api.iplay.163.com,🎵 网易云音乐
 DOMAIN,apm3.music.163.com,🎵 网易云音乐
 DOMAIN,apm.music.163.com,🎵 网易云音乐
@@ -25,8 +25,8 @@ IP-CIDR,193.112.159.225/32,🎵 网易云音乐
 IP-CIDR,223.252.199.66/32,🎵 网易云音乐
 IP-CIDR,223.252.199.67/32,🎵 网易云音乐
 
-  # Netease Music Advertising
-  DOMAIN,admusicpic.music.126.net,REJECT
-  DOMAIN,iadmat.nosdn.127.net,REJECT
-  DOMAIN,iadmusicmat.music.126.net,REJECT
-  DOMAIN,iadmusicmatvideo.music.126.net,REJECT
+# > Netease Music Advertising
+DOMAIN,admusicpic.music.126.net,REJECT
+DOMAIN,iadmat.nosdn.127.net,REJECT
+DOMAIN,iadmusicmat.music.126.net,REJECT
+DOMAIN,iadmusicmatvideo.music.126.net,REJECT
