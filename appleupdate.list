@@ -1,9 +1,6 @@
-DOMAIN-SUFFIX,ocsp.int-x3.letsencrypt.org,AppleUpdate
-DOMAIN-SUFFIX,ocsp.apple.com,AppleUpdate
-DOMAIN-SUFFIX,world-gen.g.aaplimg.com,AppleUpdate
-DOMAIN-SUFFIX,mesu.apple.com,AppleUpdate
-DOMAIN-SUFFIX,gdmf.apple.com,AppleUpdate
-DOMAIN-SUFFIX,updates-http.cdn-apple.com,AppleUpdate
-DOMAIN-SUFFIX,appldnld.apple.com,AppleUpdate
-DOMAIN-SUFFIX,swscan.apple.com,AppleUpdate
-DOMAIN-SUFFIX,xp.apple.com,AppleUpdate
+# 屏蔽系统更新
+DOMAIN-SUFFIX,ns.itunes.apple.com, Apple Update
+DOMAIN-SUFFIX,appldnld.apple.com, Apple Update
+DOMAIN-SUFFIX,mesu.apple.com, Apple Update
+DOMAIN-SUFFIX,xp.apple.com, Apple Update
+DOMAIN-SUFFIX,gdmf.apple.com, Apple Update
