@@ -1,1 +1,2 @@
 DOMAIN-SUFFIX,init.sandbox.push.apple.com,REJECT
+DOMAIN-SUFFIX,itunes.apple.com,REJECT
