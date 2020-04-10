@@ -8,13 +8,13 @@ Quantumult X 脚本:万里影视解锁VIP无限时长
 
 [rewrite_local]
 # 解锁万里影视VIP无限时长 （by LTribe）
-http?:\/\/.*\.arten.cn/login/login url script-response-body Wanliyingshi.js
+^http?:\/\/.*\.arten.cn\/login\/login url script-response-body Wanliyingshi.js
 
 [mitm]
-MITM = *.arten.cn,
+hostname = *.arten.cn,
 
 */
 
 let obj = JSON.parse($response.body);
-obj.msg.time = 4070957802;
+obj.msg.time = 4102464235;
 $done({body: JSON.stringify(obj)});

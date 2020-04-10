@@ -1,18 +1,20 @@
 /*
 
-Quantumult X 脚本
+Quantumult X
 
 By LTribe：
 PDF Expert 7 Download Link：http://t.cn/A6zQCfn6
 
 [rewrite_local]
+
 # PDF Expert 7 解锁内购年订阅
-^https:\/\/license\.pdfexpert\.com\/api\/.*\/pdfexpert6\/subscription\/(check$|refresh$) url script-response-body PDFExpert7.js
+https:\/\/license\.pdfexpert\.com\/api\/1.0\/pdfexpert6\/subscription\/(check|refresh) url script-response-body PDFExpert.js
 
 [mitm]
 hostname = license.pdfexpert.com,
 
 */
+
 
 let obj = JSON.parse($response.body);
 

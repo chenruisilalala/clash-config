@@ -1,16 +1,17 @@
 /*
 
-Quantumult X 脚本：
+Quantumult X
 
 By LTribe：
 Documents Download Link：http://t.cn/AiCd5Ac4
 
 [rewrite_local]
+
 # Documents 解锁内购年订阅
-^https?:\/\/license\.pdfexpert\.com\/api\/.*\/documents\/subscription\/(check$|refresh$) url script-response-body Documents.js
+https:\/\/license\.pdfexpert\.com\/api\/1.0\/documents\/subscription\/(check|refresh) url script-response-body Documents.js
 
 [mitm]
-hostname = *.pdfexpert.com,
+hostname = license.pdfexpert.com,
 
 */
 

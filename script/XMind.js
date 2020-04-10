@@ -1,7 +1,7 @@
 /*
 
 Quantumult X 脚本:
-Xmind Unlock Annual Subscriptions （by LTribe）
+Xmind Unlock annual subscriptions （by LTribe）
 Xmind Download Link : http://t.cn/A6zhp3Bm
 Thanks To@xiaozhuolao's membership data.
 
@@ -10,7 +10,7 @@ Thanks To@xiaozhuolao's membership data.
 https?:\/\/.*\.xmind\..*\/_res\/(devices|user_sub_status|profile\/) url script-response-body XMind.js
 
 [mitm]
-hostname = *.xmind.*,
+MITM = *.xmind.*,
 
 */
 
