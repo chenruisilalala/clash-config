@@ -1,4 +1,4 @@
-https://github.com/Hedilict/QuantumultX
+https://github.com/Hedilict/QuantumultX  
 https://github.com/LTribeSkyx/Script
 
 https://github.com/lhie1/Rules/blob/master/Clash/Rule.yml
