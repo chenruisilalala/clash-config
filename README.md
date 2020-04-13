@@ -1,5 +1,9 @@
+quantumultx  
 https://github.com/Hedilict/QuantumultX  
 https://github.com/LTribeSkyx/Script/tree/52f0569a5a7a72b7edaefed92afb8a2f5b275aa2  
+https://github.com/nzw9314/QuantumultX  
+
+clash  
 https://github.com/lhie1/Rules/blob/master/Clash/Rule.yml
 https://github.com/ConnersHua/Profiles/blob/master/Clash/Pro.yaml
 
